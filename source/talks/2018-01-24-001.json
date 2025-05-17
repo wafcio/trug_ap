@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2018-01-24-001.json",
+  "type": "Note",
+  "name": "Hourly billing is nuts",
+  "attributedTo": "https://trug.wawer.it/actors/piotr-macuk.json",
+  "inReplyTo": "https://trug.wawer.it/events/2018-01-24.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://www.slideshare.net/piotrmacuk/hourly-billing-is-nuts",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2018-01-24T18:00:00+01:00"
+}

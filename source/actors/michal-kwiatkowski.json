@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/michal-kwiatkowski.json",
+  "type": "User",
+  "name": "Michał Kwiatkowski",
+  "url": "https://github.com/mkwiatkowski"
+}

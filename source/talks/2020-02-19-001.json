@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2020-02-19-001.json",
+  "type": "Note",
+  "name": "dry-* gems",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2020-02-19.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://trug.pl/assets/archive/20200219/admeet.pdf",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2020-02-19T18:00:00+01:00"
+}

@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/robert-pankowecki.json",
+  "type": "User",
+  "name": "Robert Pankowecki",
+  "url": "https://github.com/paneq"
+}

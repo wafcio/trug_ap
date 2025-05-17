@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/bartlomiej-kozal.json",
+  "type": "User",
+  "name": "Bartłomiej Kozal",
+  "url": "https://github.com/bkzl"
+}

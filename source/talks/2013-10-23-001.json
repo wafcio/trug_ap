@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2013-10-23-001.json",
+  "type": "Note",
+  "name": "Jak być partnerem zamiast pracownikiem",
+  "attributedTo": "https://trug.wawer.it/actors/lukasz-piestrzeniewicz.json",
+  "inReplyTo": "https://trug.wawer.it/events/2013-10-23.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=iDKoYfXHbwE",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://docs.google.com/presentation/d/1n110NqCARtX2qqASjuK_CtWRAFXPV1_N3jFldllkQRA/edit#slide=id.p",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2013-10-23T18:00:00+02:00"
+}

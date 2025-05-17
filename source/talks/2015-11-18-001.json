@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-11-18-001.json",
+  "type": "Note",
+  "name": "Appium - test automation framework for use with native, hybrid and mobile web apps.",
+  "attributedTo": "https://trug.wawer.it/actors/pawel-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-11-18.json",
+  "attachment": [
+
+  ],
+  "published": "2015-11-18T18:00:00+01:00"
+}

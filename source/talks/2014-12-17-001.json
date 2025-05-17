@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-12-17-001.json",
+  "type": "Note",
+  "name": "Eye",
+  "attributedTo": "https://trug.wawer.it/actors/maciej-malecki.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-12-17.json",
+  "attachment": [
+
+  ],
+  "published": "2014-12-17T18:00:00+01:00"
+}

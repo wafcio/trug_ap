@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/andrzej-krzywda.json",
+  "type": "User",
+  "name": "Andrzej Krzywda",
+  "url": "https://twitter.com/andrzejkrzywda"
+}

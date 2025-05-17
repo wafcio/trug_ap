@@ -1,0 +1,37 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.pl/actors/trug.json",
+  "type": "Group",
+  "name": "Tricity Ruby User Group",
+  "preferredUsername": "trug",
+  "summary": "Ruby enthusiasts from Tricity (Gdańsk, Gdynia, Sopot).",
+  "url": "https://trug.wawer.it",
+  "outbox": "https://trug.wawer.it/outbox.json",
+  "icon": {
+    "type": "Image",
+    "url": "https://trug.wawer.it/images/trug-logo.svg"
+  },
+  "location": {
+    "type": "Place",
+    "name": "Hackerspace Tricity, Poland",
+    "longitude": "54.3892594",
+    "latitude": "18.5818967",
+  },
+  "tag": [
+    {
+      "type": "Hashtag",
+      "name": "Ruby"
+    },
+    {
+      "type": "Hashtag",
+      "name": "Meetup"
+    }
+  ],
+  "attachment": [
+    {
+      "type": "Link",
+      "href": "https://www.facebook.com/TRUGmeetup",
+      "name": "Facebook"
+    }
+  ]
+}

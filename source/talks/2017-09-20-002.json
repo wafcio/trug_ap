@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-09-20-002.json",
+  "type": "Note",
+  "name": "Logo - proces twórczy, ukryte znaczenie",
+  "attributedTo": "https://trug.wawer.it/actors/agata-kubiak.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-09-20.json",
+  "attachment": [
+
+  ],
+  "published": "2017-09-20T18:00:00+02:00"
+}

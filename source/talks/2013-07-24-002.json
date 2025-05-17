@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2013-07-24-002.json",
+  "type": "Note",
+  "name": "Vim",
+  "attributedTo": "https://trug.wawer.it/actors/szymon-wrozynski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2013-07-24.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/87281357",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2013-07-24T18:00:00+02:00"
+}

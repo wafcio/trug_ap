@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/jakub-naliwajek.json",
+  "type": "User",
+  "name": "Jakub Naliwajek",
+  "url": "https://github.com/naliwajek"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2010-03-03-002.json",
+  "type": "Note",
+  "name": "MongoDB case study",
+  "attributedTo": "https://trug.wawer.it/actors/sebastian-nowak.json",
+  "inReplyTo": "https://trug.wawer.it/events/2010-03-03.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/75640498",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2010-03-03T18:00:00+01:00"
+}

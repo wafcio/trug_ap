@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-02-19-001.json",
+  "type": "Note",
+  "name": "React JS",
+  "attributedTo": "https://trug.wawer.it/actors/adrian-gruntkowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-02-19.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/91980711",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://zoldar.net/react/#1",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-02-19T18:00:00+01:00"
+}

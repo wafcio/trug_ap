@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2019-11-20-001.json",
+  "type": "Note",
+  "name": "The Good Architecture",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2019-11-20.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/wafcio/the-good-architecture",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2019-11-20T18:00:00+01:00"
+}

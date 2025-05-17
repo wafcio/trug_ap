@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2012-01-01-001.json",
+  "type": "Note",
+  "name": "Testy naprawdę jednostkowe",
+  "attributedTo": "https://trug.wawer.it/actors/michal-kwiatkowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2012-01-01.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/78579341",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2012-01-01T18:00:00+01:00"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/outbox.json",
+  "type": "OrderedCollection",
+  "first": {
+    "type": "OrderedCollectionPage",
+    "href": "https://trug.wawer.it/outbox/2010-03-03.json"
+  }
+}

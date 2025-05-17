@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2012-12-01-001.json",
+  "type": "Note",
+  "name": "Torquebox 2",
+  "attributedTo": "https://trug.wawer.it/actors/przemyslaw-wroblewski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2012-12-01.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/78670602",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2012-12-01T18:00:00+01:00"
+}

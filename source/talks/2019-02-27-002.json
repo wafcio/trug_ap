@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2019-02-27-002.json",
+  "type": "Note",
+  "name": "Dry-view (better way to write views)",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2019-02-27.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=CXt2kZvbV7c",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://www.slideshare.net/secret/v1KMJE7D7aynTp",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2019-02-27T18:00:00+01:00"
+}

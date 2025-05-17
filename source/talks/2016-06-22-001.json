@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-06-22-001.json",
+  "type": "Note",
+  "name": "Dry-web workshops",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-06-22.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=2FGRXzysd2M",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2016-06-22T18:00:00+02:00"
+}

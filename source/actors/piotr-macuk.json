@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/piotr-macuk.json",
+  "type": "User",
+  "name": "Piotr Macuk",
+  "url": "https://github.com/macuk"
+}

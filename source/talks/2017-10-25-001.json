@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-10-25-001.json",
+  "type": "Note",
+  "name": "AWS deploy pipeline for Jekyll blog",
+  "attributedTo": "https://trug.wawer.it/actors/sebastian-nowak.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-10-25.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=ojvRSb4qQG4",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2017-10-25T18:00:00+02:00"
+}

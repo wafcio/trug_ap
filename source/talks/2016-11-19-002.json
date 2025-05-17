@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-11-19-002.json",
+  "type": "Note",
+  "name": "OSINT - Why Internet is a scary place",
+  "attributedTo": "https://trug.wawer.it/actors/ignacy-kasperowicz.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-11-19.json",
+  "attachment": [
+
+  ],
+  "published": "2016-11-19T18:00:00+01:00"
+}

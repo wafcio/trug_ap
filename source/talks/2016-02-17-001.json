@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-02-17-001.json",
+  "type": "Note",
+  "name": "Panel dyskusyjny - SPA hot or not?",
+  "inReplyTo": "https://trug.wawer.it/events/2016-02-17.json",
+  "attachment": [
+
+  ],
+  "published": "2016-02-17T18:00:00+01:00"
+}

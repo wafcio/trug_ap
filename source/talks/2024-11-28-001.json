@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2024-11-28-001.json",
+  "type": "Note",
+  "name": "Golang - z pamiętników wdrożeniowca, część 2",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2024-11-28.json",
+  "attachment": [
+
+  ],
+  "published": "2024-11-28T18:00:00+01:00"
+}

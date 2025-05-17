@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/michal-poczwardowski.json",
+  "type": "User",
+  "name": "Michał Poczwardowski",
+  "url": "https://github.com/dmp0x7c5"
+}

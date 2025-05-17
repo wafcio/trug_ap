@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-04-23-001.json",
+  "type": "Note",
+  "name": "Odchudzanie .gitignore",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-04-23.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=96CLV52zLwI",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/wafcio/odchudzanie-gitignore",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-04-23T18:00:00+02:00"
+}

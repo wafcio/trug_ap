@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2018-12-12-001.json",
+  "type": "Note",
+  "name": "Why do we need security headers?",
+  "attributedTo": "https://trug.wawer.it/actors/jacek-marmuszewski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2018-12-12.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://docs.google.com/presentation/d/1uZhbe-opQQ-90iQvnryoobZt3qa0GXfdgwiDbOcPMfk/edit#slide=id.g45e057549f_0_56",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2018-12-12T18:00:00+01:00"
+}

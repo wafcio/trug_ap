@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/pawel-niewiadomski.json",
+  "type": "User",
+  "name": "Paweł Niewiadomski",
+  "url": "https://github.com/pawelniewie"
+}

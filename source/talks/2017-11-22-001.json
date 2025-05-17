@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-11-22-001.json",
+  "type": "Note",
+  "name": "DDD & Hexagonal Architecture",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-11-22.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=zYF2XdGeQHs",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2017-11-22T18:00:00+01:00"
+}

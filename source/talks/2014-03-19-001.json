@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-03-19-001.json",
+  "type": "Note",
+  "name": "CSS w dużych aplikacjach webowych",
+  "attributedTo": "https://trug.wawer.it/actors/bartlomiej-kozal.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-03-19.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/96590922",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/bkzl/scalable-css",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-03-19T18:00:00+01:00"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2023-10-26.json",
+  "type": "Event",
+  "name": "TRUG #96",
+  "startTime": "2023-10-26T18:00:00+02:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2023-10-26-001.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2023-10-26-002.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

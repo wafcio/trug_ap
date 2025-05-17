@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2023-10-26-002.json",
+  "type": "Note",
+  "name": "Doctrine of Useful Objects - Get rid of mocking",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2023-10-26.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://wafcio.github.io/presentations/douo-mocking/",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2023-10-26T18:00:00+02:00"
+}

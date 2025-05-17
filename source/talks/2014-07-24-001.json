@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-07-24-001.json",
+  "type": "Note",
+  "name": "Budowanie aplikacji webowej w Ruby (Hobbit)",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-07-24.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=njtrTTZFk-A",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/wafcio/hobbit",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-07-24T18:00:00+02:00"
+}

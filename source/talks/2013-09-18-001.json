@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2013-09-18-001.json",
+  "type": "Note",
+  "name": "AngularJS + Rails",
+  "attributedTo": "https://trug.wawer.it/actors/michal-kwiatkowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2013-09-18.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://mkwiatkowski.github.io/angularjs-rails4-trug-presentation",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2013-09-18T18:00:00+02:00"
+}

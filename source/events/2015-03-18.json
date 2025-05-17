@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2015-03-18.json",
+  "type": "Event",
+  "name": "TRUG #35",
+  "startTime": "2015-03-18T18:00:00+01:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2015-03-18-001.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

@@ -1,0 +1,15 @@
+{
+  "subject": "acct:trug@trug.wawer.it",
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://trug.wawer.it/actors/trug.json"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://trug.wawer.it"
+    }
+  ]
+}

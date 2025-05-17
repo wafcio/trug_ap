@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/wlodzimierz-bzyl.json",
+  "type": "User",
+  "name": "Włodzimierz Bzyl",
+  "url": "https://github.com/wbzyl"
+}

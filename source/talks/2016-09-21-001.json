@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-09-21-001.json",
+  "type": "Note",
+  "name": "Dreyfus Model",
+  "attributedTo": "https://trug.wawer.it/actors/maciej-malecki.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-09-21.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=T3Wlogn6HzQ",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2016-09-21T18:00:00+02:00"
+}

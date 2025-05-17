@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2018-03-21-001.json",
+  "type": "Note",
+  "name": "Delivering backend - case study.",
+  "attributedTo": "https://trug.wawer.it/actors/michal-poczwardowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2018-03-21.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/dmp0x7c5/delivering-backend-case-study/",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2018-03-21T18:00:00+01:00"
+}

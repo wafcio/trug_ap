@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2025-02-20-001.json",
+  "type": "Note",
+  "name": "My LLM is smarter than yours - czyli LLMy, Vector Search i RAG w Ruby",
+  "attributedTo": "https://trug.wawer.it/actors/pawel-strzalkowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2025-02-20.json",
+  "attachment": [
+
+  ],
+  "published": "2025-02-20T18:00:00+01:00"
+}

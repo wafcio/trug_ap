@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-04-20-001.json",
+  "type": "Note",
+  "name": "Kiedy zamykasz dochodowy biznes z 6 letnią historią czyli czego nauczyłem się jako CEO",
+  "attributedTo": "https://trug.wawer.it/actors/bartlomiej-kozal.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-04-20.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=Ik4gMxTKYrI",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/bkzl/what-have-i-learned-as-a-ceo-pl",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2016-04-20T18:00:00+02:00"
+}

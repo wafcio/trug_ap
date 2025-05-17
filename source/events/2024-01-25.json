@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2024-01-25.json",
+  "type": "Event",
+  "name": "TRUG #99",
+  "startTime": "2024-01-25T18:00:00+01:00",
+  "talks": [
+
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2012-05-15-001.json",
+  "type": "Note",
+  "name": "Statyczna analiza kodu przy użyciu Rubiniusa",
+  "attributedTo": "https://trug.wawer.it/actors/sebastian-nowak.json",
+  "inReplyTo": "https://trug.wawer.it/events/2012-05-15.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/78579342",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2012-05-15T18:00:00+02:00"
+}

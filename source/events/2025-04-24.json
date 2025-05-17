@@ -1,0 +1,18 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2025-04-24.json",
+  "type": "Event",
+  "name": "TRUG #111",
+  "startTime": "2025-04-24T18:00:00+02:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2025-04-24-001.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2025-04-24-002.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

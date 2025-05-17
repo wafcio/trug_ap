@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/maciej-malecki.json",
+  "type": "User",
+  "name": "Maciej Małecki",
+  "url": "https://github.com/smt116"
+}

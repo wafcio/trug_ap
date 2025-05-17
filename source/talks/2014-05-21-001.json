@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-05-21-001.json",
+  "type": "Note",
+  "name": "Modern API (JSON, REST)",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-05-21.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=Xou9TQ9fKf4",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2014-05-21T18:00:00+02:00"
+}

@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/sebastian-nowak.json",
+  "type": "User",
+  "name": "Sebastian Nowak",
+  "url": "https://github.com/seban"
+}

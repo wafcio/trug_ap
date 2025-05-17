@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-09-17-002.json",
+  "type": "Note",
+  "name": "Konfeo.com -- moja przygoda z biznesem",
+  "attributedTo": "https://trug.wawer.it/actors/piotr-macuk.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-09-17.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=l_XMz4m7lt4",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "/archive/20140917/Konfeo.com-moja-przygoda-z-biznesem-Piotr-Macuk.pdf",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-09-17T18:00:00+02:00"
+}

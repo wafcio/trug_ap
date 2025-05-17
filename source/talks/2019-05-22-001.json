@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2019-05-22-001.json",
+  "type": "Note",
+  "name": "VPS vs Heroku for small team",
+  "attributedTo": "https://trug.wawer.it/actors/piotr-macuk.json",
+  "inReplyTo": "https://trug.wawer.it/events/2019-05-22.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://trug.pl/assets/archive/20190522/vps_heroku.pdf",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2019-05-22T18:00:00+02:00"
+}

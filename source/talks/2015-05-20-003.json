@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-05-20-003.json",
+  "type": "Note",
+  "name": "3Alchemy session 1 - Freestyle improvised interactive live mob programming Elixir session",
+  "attributedTo": "https://trug.wawer.it/actors/szymon-jez.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-05-20.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://github.com/jeznet/3alchemy#session-1-2015-05-20",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2015-05-20T18:00:00+02:00"
+}

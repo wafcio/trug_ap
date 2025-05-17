@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2024-04-25-001.json",
+  "type": "Note",
+  "name": "Turbo, ciąg dalszy",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2024-04-25.json",
+  "attachment": [
+
+  ],
+  "published": "2024-04-25T18:00:00+02:00"
+}

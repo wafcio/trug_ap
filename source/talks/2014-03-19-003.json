@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-03-19-003.json",
+  "type": "Note",
+  "name": "Keep your wrists healthy",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-03-19.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/89779134",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2014-03-19T18:00:00+01:00"
+}

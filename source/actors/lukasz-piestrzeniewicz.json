@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/lukasz-piestrzeniewicz.json",
+  "type": "User",
+  "name": "Łukasz Piestrzeniewicz",
+  "url": "https://github.com/bragi"
+}

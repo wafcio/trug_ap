@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/outbox/2018-12-12.json",
+  "type": "OrderedCollectionPage",
+  "partOf": "https://trug.wawer.it/outbox",
+  "next": "https://trug.wawer.it/outbox/2019-01-23.json",
+  "items": [
+    {
+      "type": "Create",
+      "object": "https://trug.wawer.it/events/2018-12-12.json"
+    }
+  ]
+}

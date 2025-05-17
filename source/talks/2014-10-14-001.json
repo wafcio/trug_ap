@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-10-14-001.json",
+  "type": "Note",
+  "name": "Rubymotion",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-10-14.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=wmssg1g6bNA",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2014-10-14T18:00:00+02:00"
+}

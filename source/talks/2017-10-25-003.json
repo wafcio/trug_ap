@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-10-25-003.json",
+  "type": "Note",
+  "name": "Event-Driven Rails from scratch - Part 1: Motivation",
+  "attributedTo": "https://trug.wawer.it/actors/andrzej-krzywda.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-10-25.json",
+  "attachment": [
+
+  ],
+  "published": "2017-10-25T18:00:00+02:00"
+}

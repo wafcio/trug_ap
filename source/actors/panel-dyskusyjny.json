@@ -1,0 +1,6 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/panel-dyskusyjny.json",
+  "type": "User",
+  "name": "Panel dyskusyjny"
+}

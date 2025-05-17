@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-01-22-003.json",
+  "type": "Note",
+  "name": "Podsumowanie 2013",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-01-22.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/89426724",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2014-01-22T18:00:00+01:00"
+}

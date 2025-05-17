@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/maciej-kubiak.json",
+  "type": "User",
+  "name": "Maciej Kubiak",
+  "url": "https://github.com/buffot"
+}

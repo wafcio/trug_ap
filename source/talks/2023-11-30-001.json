@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2023-11-30-001.json",
+  "type": "Note",
+  "name": "Ruby on Rails - The Documentary",
+  "attributedTo": "https://trug.wawer.it/actors/ogladamy-film.json",
+  "inReplyTo": "https://trug.wawer.it/events/2023-11-30.json",
+  "attachment": [
+
+  ],
+  "published": "2023-11-30T18:00:00+01:00"
+}

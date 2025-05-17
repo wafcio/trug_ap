@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2013-03-01-001.json",
+  "type": "Note",
+  "name": "Faye",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2013-03-01.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/78581709",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2013-03-01T18:00:00+01:00"
+}

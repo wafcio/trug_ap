@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-08-20-002.json",
+  "type": "Note",
+  "name": "Rspec: Best practices",
+  "attributedTo": "https://trug.wawer.it/actors/pawel-goscicki.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-08-20.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=NS2N-gqTU78",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "/archive/20140820/rspec.html",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-08-20T18:00:00+02:00"
+}

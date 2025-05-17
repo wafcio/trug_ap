@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-12-20-001.json",
+  "type": "Note",
+  "name": "Make frontend development great again in Rails",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-12-20.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=rgmW_VIzPc4",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/aokon/trug-number-69-make-frontend-development-great-again-in-rails",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2017-12-20T18:00:00+01:00"
+}

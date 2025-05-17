@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-08-30-001.json",
+  "type": "Note",
+  "name": "Integracja mikroserwisu Machine Learning w Python z aplikacją webową Ruby on Rails",
+  "attributedTo": "https://trug.wawer.it/actors/robert-kostrzewski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-08-30.json",
+  "attachment": [
+
+  ],
+  "published": "2017-08-30T18:00:00+02:00"
+}

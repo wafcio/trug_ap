@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2019-02-27-001.json",
+  "type": "Note",
+  "name": "Podsumowanie 12 lat eksperymentu dot. wycieków danych",
+  "attributedTo": "https://trug.wawer.it/actors/pawel-pokrywka.json",
+  "inReplyTo": "https://trug.wawer.it/events/2019-02-27.json",
+  "attachment": [
+
+  ],
+  "published": "2019-02-27T18:00:00+01:00"
+}

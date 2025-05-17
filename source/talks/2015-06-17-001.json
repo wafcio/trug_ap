@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-06-17-001.json",
+  "type": "Note",
+  "name": "Defining DSL in Ruby",
+  "attributedTo": "https://trug.wawer.it/actors/michal-poczwardowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-06-17.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=CTKrvzkEbKs",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/dmp0x7c5/defining-dsl-in-ruby/",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2015-06-17T18:00:00+02:00"
+}

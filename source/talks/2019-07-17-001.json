@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2019-07-17-001.json",
+  "type": "Note",
+  "name": "Migrating from Paperclip to ActiveStorage",
+  "attributedTo": "https://trug.wawer.it/actors/piotr-macuk.json",
+  "inReplyTo": "https://trug.wawer.it/events/2019-07-17.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://trug.pl/assets/archive/20190717/active_storage.pdf",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2019-07-17T18:00:00+02:00"
+}

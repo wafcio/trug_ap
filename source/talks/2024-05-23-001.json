@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2024-05-23-001.json",
+  "type": "Note",
+  "name": "On Building Newsletter",
+  "attributedTo": "https://trug.wawer.it/actors/michal-poczwardowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2024-05-23.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://trug.pl/assets/archive/20240523/on_building_newsletter_trug_2024_05_23.pdf",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2024-05-23T18:00:00+02:00"
+}

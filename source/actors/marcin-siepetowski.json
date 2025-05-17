@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/marcin-siepetowski.json",
+  "type": "User",
+  "name": "Marcin Siepetowski",
+  "url": "https://github.com/siepet"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-04-27-002.json",
+  "type": "Note",
+  "name": "Jak zarobić $80 000 na blogu",
+  "attributedTo": "https://trug.wawer.it/actors/robert-pankowecki.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-04-27.json",
+  "attachment": [
+
+  ],
+  "published": "2016-04-27T18:00:00+02:00"
+}

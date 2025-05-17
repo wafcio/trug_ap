@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-10-19-002.json",
+  "type": "Note",
+  "name": "Git",
+  "attributedTo": "https://trug.wawer.it/actors/maciej-malecki.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-10-19.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://www.icloud.com/keynote/0LiFcstnYD8VV3pNltHqBGG_w#Git",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2016-10-19T18:00:00+02:00"
+}

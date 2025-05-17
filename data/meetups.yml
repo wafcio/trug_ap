@@ -16,8 +16,6 @@ events:
     talks:
       - full_name: Adam Okoń
         title: "LLM Apps: Building Beyond the Hype"
-      - full_name: All are welcome
-        title: Lighting talks
   - number: 109
     date: "2025-02-20"
     talks:
@@ -135,9 +133,7 @@ events:
         title: O GraphQL i używaniu go z Ruby on Rails
   - number: 89
     date: "2019-08-21"
-    talks:
-      - full_name: ???
-        title: ???
+    talks: []
   - number: 88
     date: "2019-07-17"
     talks:

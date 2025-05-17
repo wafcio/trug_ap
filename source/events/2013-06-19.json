@@ -1,0 +1,22 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2013-06-19.json",
+  "type": "Event",
+  "name": "TRUG #14",
+  "startTime": "2013-06-19T18:00:00+02:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2013-06-19-001.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2013-06-19-002.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2013-06-19-003.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

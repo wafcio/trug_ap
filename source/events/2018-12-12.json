@@ -1,0 +1,22 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2018-12-12.json",
+  "type": "Event",
+  "name": "TRUG #81",
+  "startTime": "2018-12-12T18:00:00+01:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2018-12-12-001.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2018-12-12-002.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2018-12-12-003.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

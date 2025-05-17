@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/przemyslaw-wroblewski.json",
+  "type": "User",
+  "name": "Przemysław Wróblewski",
+  "url": "https://przemyslawwroblewski.blogspot.com/"
+}

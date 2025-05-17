@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2019-10-23-001.json",
+  "type": "Note",
+  "name": "Czego się nauczyłem, ile zarobiłem i dlaczego rzuciłem programowanie po zbudowaniu sześciu side projektów",
+  "attributedTo": "https://trug.wawer.it/actors/bartek-kozal.json",
+  "inReplyTo": "https://trug.wawer.it/events/2019-10-23.json",
+  "attachment": [
+
+  ],
+  "published": "2019-10-23T18:00:00+02:00"
+}

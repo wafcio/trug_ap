@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2012-05-15-002.json",
+  "type": "Note",
+  "name": "Współbieżność w Ruby",
+  "attributedTo": "https://trug.wawer.it/actors/pawel-goscicki.json",
+  "inReplyTo": "https://trug.wawer.it/events/2012-05-15.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/78579343",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "/archive/20120515/wspolbieznosc-w-ruby/",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2012-05-15T18:00:00+02:00"
+}

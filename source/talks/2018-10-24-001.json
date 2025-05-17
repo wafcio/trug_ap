@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2018-10-24-001.json",
+  "type": "Note",
+  "name": "Rola badań w procesie projektowania",
+  "attributedTo": "https://trug.wawer.it/actors/agata-kubiak.json",
+  "inReplyTo": "https://trug.wawer.it/events/2018-10-24.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://www.dropbox.com/s/42ne74dbdrw3xcj/TRUG%20Rola%20bada%C5%84%20w%20procesie%20projektowania.pdf?dl=0",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2018-10-24T18:00:00+02:00"
+}

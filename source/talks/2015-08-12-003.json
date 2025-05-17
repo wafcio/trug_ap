@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-08-12-003.json",
+  "type": "Note",
+  "name": "Roda",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-08-12.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/aokon/trug-number-40-roda",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2015-08-12T18:00:00+02:00"
+}

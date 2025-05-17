@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/szymon-wrozynski.json",
+  "type": "User",
+  "name": "Szymon Wrożyński",
+  "url": "https://github.com/szw"
+}

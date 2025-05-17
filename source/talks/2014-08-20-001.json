@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-08-20-001.json",
+  "type": "Note",
+  "name": "Beyond MVC",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-08-20.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=9b1G_Q2AHXI",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://www.slideshare.net/oskarszrajer/beyond-mvc",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-08-20T18:00:00+02:00"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-12-14-001.json",
+  "type": "Note",
+  "name": "Jupyter, interactive notebooks",
+  "attributedTo": "https://trug.wawer.it/actors/jakub-naliwajek.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-12-14.json",
+  "attachment": [
+
+  ],
+  "published": "2016-12-14T18:00:00+01:00"
+}

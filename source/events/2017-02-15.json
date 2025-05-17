@@ -1,0 +1,22 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2017-02-15.json",
+  "type": "Event",
+  "name": "TRUG #59",
+  "startTime": "2017-02-15T18:00:00+01:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2017-02-15-001.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2017-02-15-002.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2017-02-15-003.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

@@ -1,0 +1,6 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/krzysztof-hasinski.json",
+  "type": "User",
+  "name": "Krzysztof Hasiński"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2013-11-20-002.json",
+  "type": "Note",
+  "name": "Advertine",
+  "attributedTo": "https://trug.wawer.it/actors/sebastian-zontek.json",
+  "inReplyTo": "https://trug.wawer.it/events/2013-11-20.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://player.vimeo.com/video/85975292",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://www.advertine.com/",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2013-11-20T18:00:00+01:00"
+}

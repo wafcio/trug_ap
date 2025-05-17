@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-10-19-001.json",
+  "type": "Note",
+  "name": "Ruby contracts",
+  "attributedTo": "https://trug.wawer.it/actors/michal-kwiatkowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-10-19.json",
+  "attachment": [
+
+  ],
+  "published": "2016-10-19T18:00:00+02:00"
+}

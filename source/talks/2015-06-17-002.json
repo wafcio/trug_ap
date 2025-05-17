@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-06-17-002.json",
+  "type": "Note",
+  "name": "Generating a CSV file with ROM",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-06-17.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=kdml2xdwmxo",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/wafcio/generating-a-csv-file-with-rom",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2015-06-17T18:00:00+02:00"
+}

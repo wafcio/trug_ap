@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2013-09-18-004.json",
+  "type": "Note",
+  "name": "Grafowe bazy danych",
+  "attributedTo": "https://trug.wawer.it/actors/adrian-gruntkowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2013-09-18.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "/archive/20130918/Grafowe-bazy-danych.pdf",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2013-09-18T18:00:00+02:00"
+}

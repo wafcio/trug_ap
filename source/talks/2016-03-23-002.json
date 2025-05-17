@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-03-23-002.json",
+  "type": "Note",
+  "name": "Deis. Your PaaS. Your Rules.",
+  "attributedTo": "https://trug.wawer.it/actors/stanislaw-tuszynski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-03-23.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=ZxcQ5dWUAKI",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2016-03-23T18:00:00+01:00"
+}

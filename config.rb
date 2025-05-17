@@ -63,3 +63,13 @@ configure :build do
   activate :minify_html
   activate :minify_javascript
 end
+
+class ActivityPubFeature < Middleman::Extension
+  def before_build(_builder)
+    system("bundle exec rake activity_pub:generate")
+  end
+end
+
+Middleman::Extensions.register(:activity_pub_feature, ActivityPubFeature)
+
+activate :activity_pub_feature

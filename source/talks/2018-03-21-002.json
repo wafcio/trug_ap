@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2018-03-21-002.json",
+  "type": "Note",
+  "name": "Another Live code session (discovering ruby through TDD)",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2018-03-21.json",
+  "attachment": [
+
+  ],
+  "published": "2018-03-21T18:00:00+01:00"
+}

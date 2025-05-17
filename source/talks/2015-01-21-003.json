@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-01-21-003.json",
+  "type": "Note",
+  "name": "Języki funkcyjne: czego jeszcze mogą nas nauczyć?",
+  "attributedTo": "https://trug.wawer.it/actors/michal-kwiatkowski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-01-21.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=_JlL3p5V3Gg",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2015-01-21T18:00:00+01:00"
+}

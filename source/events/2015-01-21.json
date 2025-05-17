@@ -1,0 +1,22 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2015-01-21.json",
+  "type": "Event",
+  "name": "TRUG #33",
+  "startTime": "2015-01-21T18:00:00+01:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2015-01-21-001.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2015-01-21-002.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2015-01-21-003.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/michal-podlecki.json",
+  "type": "User",
+  "name": "Michał Podlecki",
+  "url": "https://github.com/michalpodlecki"
+}

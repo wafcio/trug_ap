@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-05-20-001.json",
+  "type": "Note",
+  "name": "Małe co nieco Sequela",
+  "attributedTo": "https://trug.wawer.it/actors/marta-buda.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-05-20.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=x505tjKQMfY",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/mbuda/male-co-nieco-sequela",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2015-05-20T18:00:00+02:00"
+}

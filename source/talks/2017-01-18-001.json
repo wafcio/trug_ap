@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-01-18-001.json",
+  "type": "Note",
+  "name": "PostgreSQL - Dlaczego moje zapytania są takie wolne?",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-01-18.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=_zS4KjUE24w",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/aokon/postgresql-dlaczego-moje-zapytania-sa-takie-wolne",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2017-01-18T18:00:00+01:00"
+}

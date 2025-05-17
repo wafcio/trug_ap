@@ -1,0 +1,6 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/dejan-acimovic.json",
+  "type": "User",
+  "name": "Dejan Aćimović"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-08-24-001.json",
+  "type": "Note",
+  "name": "Z czym się je Vue.JS",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-08-24.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=G3bzinki1AE",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/aokon/trug-number-54-z-czym-sie-je-vuejs",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2016-08-24T18:00:00+02:00"
+}

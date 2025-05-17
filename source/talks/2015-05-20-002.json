@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-05-20-002.json",
+  "type": "Note",
+  "name": "ElixirConfEU 2015 - summary, report",
+  "attributedTo": "https://trug.wawer.it/actors/szymon-jez.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-05-20.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://www.elixirconf.eu/",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2015-05-20T18:00:00+02:00"
+}

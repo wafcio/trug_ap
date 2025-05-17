@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2019-05-22-003.json",
+  "type": "Note",
+  "name": "Programowanie mikrokontrolerów (mruby)",
+  "attributedTo": "https://trug.wawer.it/actors/tomasz-stachewicz.json",
+  "inReplyTo": "https://trug.wawer.it/events/2019-05-22.json",
+  "attachment": [
+
+  ],
+  "published": "2019-05-22T18:00:00+02:00"
+}

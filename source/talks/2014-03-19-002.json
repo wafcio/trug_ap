@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-03-19-002.json",
+  "type": "Note",
+  "name": "Dynamiczne szablony Liquid Markup",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-03-19.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=W-Mg6J-97M8",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/wafcio/dynamiczne-szablony-liquid-markup",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-03-19T18:00:00+01:00"
+}

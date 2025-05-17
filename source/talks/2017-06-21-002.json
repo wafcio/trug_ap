@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2017-06-21-002.json",
+  "type": "Note",
+  "name": "Slim Ruby on Rails: Controllers & Middlewares",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2017-06-21.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/wafcio/slim-ruby-on-rails-controllers-and-middlewares",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2017-06-21T18:00:00+02:00"
+}

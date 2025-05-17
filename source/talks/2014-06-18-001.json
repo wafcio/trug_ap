@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-06-18-001.json",
+  "type": "Note",
+  "name": "Lotus Router, Model, Controller, View",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-06-18.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "https://lotusrb.org",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-06-18T18:00:00+02:00"
+}

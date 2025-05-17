@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-02-18-001.json",
+  "type": "Note",
+  "name": "ROM - Ruby Object Mapper",
+  "attributedTo": "https://trug.wawer.it/actors/oskar-szrajer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-02-18.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=M0PfkUL_IB8",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2015-02-18T18:00:00+01:00"
+}

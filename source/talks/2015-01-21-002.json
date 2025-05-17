@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-01-21-002.json",
+  "type": "Note",
+  "name": "ORM, DataMapper czy Agregacja encji",
+  "attributedTo": "https://trug.wawer.it/actors/krzysztof-wawer.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-01-21.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=dWjeToQHDkI",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://speakerdeck.com/wafcio/activerecord-datamapper-czy-agregacja-encji",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2015-01-21T18:00:00+01:00"
+}

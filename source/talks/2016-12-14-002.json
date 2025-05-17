@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2016-12-14-002.json",
+  "type": "Note",
+  "name": "Dokku - part 2",
+  "attributedTo": "https://trug.wawer.it/actors/stanislaw-tuszynski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2016-12-14.json",
+  "attachment": [
+
+  ],
+  "published": "2016-12-14T18:00:00+01:00"
+}

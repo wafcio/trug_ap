@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2014-09-17-001.json",
+  "type": "Note",
+  "name": "Mazureo.pl",
+  "attributedTo": "https://trug.wawer.it/actors/michal-podlecki.json",
+  "inReplyTo": "https://trug.wawer.it/events/2014-09-17.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=b3i5CHojnsU",
+      "name": "Wideo"
+    },
+    {
+      "type": "Document",
+      "url": "https://mazureo.pl/",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2014-09-17T18:00:00+02:00"
+}

@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/adam-okon.json",
+  "type": "User",
+  "name": "Adam Okoń",
+  "url": "https://github.com/aokon"
+}

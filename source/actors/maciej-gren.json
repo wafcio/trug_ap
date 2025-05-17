@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/actors/maciej-gren.json",
+  "type": "User",
+  "name": "Maciej Greń",
+  "url": "https://defii.co/en"
+}

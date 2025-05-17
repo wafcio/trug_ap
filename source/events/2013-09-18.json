@@ -1,0 +1,26 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2013-09-18.json",
+  "type": "Event",
+  "name": "TRUG #17",
+  "startTime": "2013-09-18T18:00:00+02:00",
+  "talks": [
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2013-09-18-001.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2013-09-18-002.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2013-09-18-003.json"
+    },
+    {
+      "type": "Note",
+      "object": "https://trug.wawer.it/talks/2013-09-18-004.json"
+    }
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2013-09-18-003.json",
+  "type": "Note",
+  "name": "Less is more",
+  "attributedTo": "https://trug.wawer.it/actors/piotr-macuk.json",
+  "inReplyTo": "https://trug.wawer.it/events/2013-09-18.json",
+  "attachment": [
+    {
+      "type": "Document",
+      "url": "/archive/20130918/Less-is-More-Piotr-Macuk.pdf",
+      "name": "Prezentacja"
+    }
+  ],
+  "published": "2013-09-18T18:00:00+02:00"
+}

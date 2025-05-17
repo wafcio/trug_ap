@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2025-04-24-001.json",
+  "type": "Note",
+  "name": "Beyond the Hype: Fact-Checking Phlex Promises from Wroclove.rb 2025",
+  "attributedTo": "https://trug.wawer.it/actors/adam-okon.json",
+  "inReplyTo": "https://trug.wawer.it/events/2025-04-24.json",
+  "attachment": [
+
+  ],
+  "published": "2025-04-24T18:00:00+02:00"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2023-12-28-001.json",
+  "type": "Note",
+  "name": "Turbo Native in 15 minutes, Joe Masilotti",
+  "attributedTo": "https://trug.wawer.it/actors/ogladamy-film.json",
+  "inReplyTo": "https://trug.wawer.it/events/2023-12-28.json",
+  "attachment": [
+
+  ],
+  "published": "2023-12-28T18:00:00+01:00"
+}

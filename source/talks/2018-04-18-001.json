@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2018-04-18-001.json",
+  "type": "Note",
+  "name": "Front-end Deployment with Lambda@Edge",
+  "attributedTo": "https://trug.wawer.it/actors/jan-dudek.json",
+  "inReplyTo": "https://trug.wawer.it/events/2018-04-18.json",
+  "attachment": [
+
+  ],
+  "published": "2018-04-18T18:00:00+02:00"
+}

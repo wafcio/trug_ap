@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/talks/2015-07-22-001.json",
+  "type": "Note",
+  "name": "Cooking with Chef",
+  "attributedTo": "https://trug.wawer.it/actors/stanislaw-tuszynski.json",
+  "inReplyTo": "https://trug.wawer.it/events/2015-07-22.json",
+  "attachment": [
+    {
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=ctkSVZsiaF4",
+      "name": "Wideo"
+    }
+  ],
+  "published": "2015-07-22T18:00:00+02:00"
+}

@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://trug.wawer.it/events/2019-08-21.json",
+  "type": "Event",
+  "name": "TRUG #89",
+  "startTime": "2019-08-21T18:00:00+02:00",
+  "talks": [
+
+  ],
+  "attributedTo": "https://trug.wawer.it/actors/trug.json"
+}
